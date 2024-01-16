@@ -16,3 +16,8 @@ With the 2 coordinates of start and destination (street and train station respec
 ## resale_prediction:
 
 Data is further tweaked to be usable, and new columns with the label-encoded values of the original columns are added. The travel and walk times are mapped to the street names and the final dataset is used for training.
+
+
+## Find out more
+I've written about the process and considerations here: https://medium.com/@zachang97/juicing-your-data-for-boosts-in-accuracy-64349df485ac
+Feel free to have a read :)
